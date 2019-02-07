@@ -14,5 +14,5 @@ button {
 button:hover {
   background-color: cornflowerblue;
   color: white;
-  pointer: hand;
+  pointer: cursor;
 }
